@@ -1,3 +1,5 @@
+# I had to make a fork to allow making PR's. I'm keeping the development there: https://github.com/topemalheiro/Auto-Claude-MCP
+
 # Auto Claude
 
 **Autonomous multi-agent coding framework that plans, builds, and validates software for you.**
